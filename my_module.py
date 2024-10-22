@@ -1,3 +1,4 @@
+# Created by Sambhav Antriksh #
 ''' The module computes the mean,median,standard deviation and sorting in ascending order '''
 def my_mean(list_number):
     ''' my_mean(list) -> gives average '''
