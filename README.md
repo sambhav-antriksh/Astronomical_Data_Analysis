@@ -5,3 +5,5 @@ The coverage of the course is as follows:::
 3. Astropy and Astroquery: Reading and writing the astronomical data using astropy and astroquery packages available in python.
 
 In addition to this two assignement are given to make the course a nice refresher and take off point in the field of astronomical data analysis.
+
+I have added my own code of the solutions of the assignment .
